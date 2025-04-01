@@ -36,7 +36,7 @@ Los datos provienen de [Fuente de datos] y han sido limpiados y estructurados pa
 
 Si te gustó este proyecto, dale una **⭐ en GitHub** y sígueme para más análisis de datos. También puedes sugerir mejoras o aportar nuevas visualizaciones.  
 
-📧 ¿Tienes dudas o ideas? Contáctame en [tu correo] o [LinkedIn](tu-perfil).  
+📧 ¿Tienes dudas o ideas? Contáctame en [bryanneciosup626@gmail.com] o [LinkedIn](https://www.linkedin.com/in/brayan-rafael-neciosup-bola%C3%B1os-407a59246/).  
 
 ---
 
