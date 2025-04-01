@@ -30,7 +30,7 @@ Este proyecto analiza las ventas globales en la industria de los videojuegos uti
 
 ## 🌍 Fuentes de Datos  
 
-Los datos provienen de [Fuente de datos] y han sido limpiados y estructurados para su análisis en Power BI.  
+Los datos provienen de [Ventas+Videojuegos.xlsx] y han sido limpiados y estructurados para su análisis en Power BI.  
 
 ## ⭐ Contribuye o Apóyame  
 
