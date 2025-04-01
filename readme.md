@@ -20,7 +20,7 @@ Este proyecto analiza las ventas globales en la industria de los videojuegos uti
 
 ## 📸 Vista Previa  
 
-![Dashboard Preview](ruta/a/imagen.png)  
+![Dashboard Preview](ReporteVideojuegos.png)  
 
 ## 🛠 Cómo Usarlo  
 
